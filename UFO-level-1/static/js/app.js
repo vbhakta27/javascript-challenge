@@ -69,7 +69,7 @@ button.on("click", function() {
 
     // If input date is not in data then alert user
     else {
-        alert("Date not found in dataset. Please enter a new date from 1/1/2010 to 1/13/2010")
+        alert("Date not found in database. Please enter a new date ranging from 1/1/2010 to 1/13/2010")
     }
 });
 
